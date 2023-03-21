@@ -52,7 +52,7 @@ function NFTDropPage() {
           <p className="text-sm text-center text-rose-400">
             You are logged in with wallet {address.substring(0, 5)}...
             {address.substring(address.length - 5)}
-            {/* star from beging show first five characters and then ..... show last 5 character */}
+            {/* start from beging show first five characters and then ..... show last 5 character */}
           </p>
         )}
 

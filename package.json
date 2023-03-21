@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@thirdweb-dev/react": "^3.10.3",
     "@thirdweb-dev/sdk": "^3.10.3",

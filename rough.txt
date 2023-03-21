@@ -1,2 +1,6 @@
 next js
 npm run dev
+
+pages>index-home page
+
+extension teailwind intellicemnse
