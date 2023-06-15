@@ -63,7 +63,8 @@ function NFTDropPage() {
         >
           <img
             className="object-cover pb-10 w-80 lg:h-40"
-            src="https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622021.jpg?size=338&ext=jpg&ga=GA1.2.1699825304.1666846740&semt=sph"
+            // src="ic/collage.gif"
+            src="https://cdn.pixabay.com/photo/2022/03/01/02/51/galaxy-7040416_1280.png"
             alt=""
           />
           <h1 className="text-3xl font-bold lg:text-5xl lg:font-extrabold">
