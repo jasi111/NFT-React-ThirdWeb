@@ -3,10 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 **Landing page with MetaMask login feature implemented.**
 
 ### Screenshot
-![Image-1](.screenshots/1.png)
+![Image-1](./screenshots/1.png)
 
 
-![Image-1](.screenshots/2.png)
+![Image-1](./screenshots/2.png)
 
 
 
