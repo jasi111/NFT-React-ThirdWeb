@@ -6,7 +6,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![Image-1](./screenshots/1.png)
 
 
+
 ![Image-1](./screenshots/2.png)
+
+![Image-1](./screenshots/3.png)
+
+![Image-1](./screenshots/4.png)
+
 
 
 
